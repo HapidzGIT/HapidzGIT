@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HapidzGIT
 - 👀 I’m interested in Code and Design
 - 🌱 I’m currently learning Some Language, Like Javascript.
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on Programming Like Team or company
 - 📫 How to reach me, you can find me on instagram : @hafidzfrqn_
 
 <!---
